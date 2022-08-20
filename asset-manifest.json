@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/attendanceportal/static/css/main.bbdb0688.css",
+    "main.js": "/attendanceportal/static/js/main.b47211c2.js",
+    "static/media/memories.jpg": "/attendanceportal/static/media/memories.eebe3a06d720038d9cbd.jpg",
+    "index.html": "/attendanceportal/index.html",
+    "main.bbdb0688.css.map": "/attendanceportal/static/css/main.bbdb0688.css.map",
+    "main.b47211c2.js.map": "/attendanceportal/static/js/main.b47211c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdb0688.css",
+    "static/js/main.b47211c2.js"
+  ]
+}
